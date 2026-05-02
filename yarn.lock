@@ -1393,13 +1393,6 @@
   resolved "https://registry.yarnpkg.com/@chevrotain/utils/-/utils-11.0.3.tgz#e39999307b102cff3645ec4f5b3665f5297a2224"
   integrity sha512-YslZMgtJUyuMbZ+aKvfF3x1f5liK4mWNxghFRv7jqRR9C3R3fAOGTTKvxXDa2Y1s9zSbcpuO0cAxDYsc9SrXoQ==
 
-"@codeherence/react-native-header@^0.14.0":
-  version "0.14.0"
-  resolved "https://registry.yarnpkg.com/@codeherence/react-native-header/-/react-native-header-0.14.0.tgz#acd2f01e4a80f703edc0eb68138be9727714a00e"
-  integrity sha512-WvOQwVTks5KB3IfRD7OtVQF7HQS7WPYpxpb0sJjXiS77h8xFSP2O7TKvKRpUZKa18MwZ5jMAN+CH770YIRMwyg==
-  dependencies:
-    use-debounce "9.0.3"
-
 "@colors/colors@1.5.0":
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/@colors/colors/-/colors-1.5.0.tgz#bb504579c1cae923e6576a4f5da43d25f97bdbd9"
@@ -24650,11 +24643,6 @@ use-count-up@^3.0.1:
   integrity sha512-jlVsXJYje6jh+xwQaCEYrwHoB+nRyillNEmr21bhe9kw7tpRzyrSq9jQs9UOlo+8hCFkuOmjUihL3IjEK/piVg==
   dependencies:
     use-elapsed-time "3.0.2"
-
-use-debounce@9.0.3:
-  version "9.0.3"
-  resolved "https://registry.yarnpkg.com/use-debounce/-/use-debounce-9.0.3.tgz#bac660c19ab7b38662e08608fee23c7ad303f532"
-  integrity sha512-FhtlbDtDXILJV7Lix5OZj5yX/fW1tzq+VrvK1fnT2bUrPOGruU9Rw8NCEn+UI9wopfERBEZAOQ8lfeCJPllgnw==
 
 use-elapsed-time@3.0.2:
   version "3.0.2"
